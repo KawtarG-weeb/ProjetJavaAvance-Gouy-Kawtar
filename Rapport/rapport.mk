@@ -25,44 +25,6 @@ Ce projet sert de support pédagogique pour appliquer les concepts POO en Java.
 - Collections Java
 - Architecture MVC simplifiée
 
-## Architecture du projet
-
-
-app/
-
-├── controller/
-
-├── model/
-
-│ ├── Account.java
-
-│ ├── Customer.java
-
-│ ├── LineItem.java
-
-│ ├── Order.java
-
-│ ├── OrderStatus.java
-
-│ ├── Payment.java
-
-│ ├── Product.java
-
-│ ├── ShoppingCart.java
-
-│ ├── UserState.java
-
-│ └── WebUser.java
-
-├── view/
-
-│ └── Main.java
-
-resources/
-
-test/
-
-target/
 
 
 
