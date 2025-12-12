@@ -325,7 +325,6 @@ Sans paiement validé, la commande ne peut pas être expédiée.
 
 
 
-# diagramme de classe 
 
 
 
